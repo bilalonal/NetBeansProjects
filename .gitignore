@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/JavaApplication2/nbproject/private/
+/JavaApplication2/build/
+/UIProject/nbproject/private/
+/UIProject/build/

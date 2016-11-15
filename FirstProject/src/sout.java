@@ -14,6 +14,7 @@ public class sout {
         System.out.println("asdf\nasdf");
         System.out.println("  ali  \"böyle\" dedi");
         
+        System.out.println("bla bla");
     }
     
 }

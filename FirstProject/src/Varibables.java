@@ -8,7 +8,7 @@ public class Varibables {
         System.out.println("b3 "+b3);
         
         boolean b4 = b3;
-        boolean b5 = 3<5 && b3; //true && false
+        boolean b5 = 3<5 || b3; //true && false
         
         int i = 3;
         int i2 = 2;

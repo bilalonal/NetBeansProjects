@@ -4,6 +4,9 @@ class Hello{
         
         System.out.println( "Hello" ); 
         
+        double b = 8.2 % 5;
+	System.out.println(b);
+        
         
     }
     

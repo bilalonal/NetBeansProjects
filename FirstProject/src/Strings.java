@@ -1,3 +1,6 @@
+
+import java.util.Scanner;
+
 public class Strings {
 
     public static void main(String[] args) {
@@ -6,7 +9,8 @@ public class Strings {
         String s2 = s + " geldi";
         
         System.out.println(s2);
-        
+        System.out.println("");
+                
     }
 
 
